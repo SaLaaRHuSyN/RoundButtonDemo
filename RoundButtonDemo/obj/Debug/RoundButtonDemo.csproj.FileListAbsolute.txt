@@ -1,0 +1,16 @@
+C:\Users\SaLaaR HuSyN\source\repos\RoundButtonDemo\RoundButtonDemo\bin\Debug\RoundButtonDemo.exe.config
+C:\Users\SaLaaR HuSyN\source\repos\RoundButtonDemo\RoundButtonDemo\bin\Debug\RoundButtonDemo.exe
+C:\Users\SaLaaR HuSyN\source\repos\RoundButtonDemo\RoundButtonDemo\bin\Debug\RoundButtonDemo.pdb
+C:\Users\SaLaaR HuSyN\source\repos\RoundButtonDemo\RoundButtonDemo\obj\Debug\RoundButtonDemo.csprojResolveAssemblyReference.cache
+C:\Users\SaLaaR HuSyN\source\repos\RoundButtonDemo\RoundButtonDemo\obj\Debug\MainWindow.g.cs
+C:\Users\SaLaaR HuSyN\source\repos\RoundButtonDemo\RoundButtonDemo\obj\Debug\App.g.cs
+C:\Users\SaLaaR HuSyN\source\repos\RoundButtonDemo\RoundButtonDemo\obj\Debug\RoundButtonDemo_MarkupCompile.cache
+C:\Users\SaLaaR HuSyN\source\repos\RoundButtonDemo\RoundButtonDemo\obj\Debug\RoundButtonDemo_MarkupCompile.lref
+C:\Users\SaLaaR HuSyN\source\repos\RoundButtonDemo\RoundButtonDemo\obj\Debug\App.baml
+C:\Users\SaLaaR HuSyN\source\repos\RoundButtonDemo\RoundButtonDemo\obj\Debug\MainWindow.baml
+C:\Users\SaLaaR HuSyN\source\repos\RoundButtonDemo\RoundButtonDemo\obj\Debug\RoundButtonDemo.g.resources
+C:\Users\SaLaaR HuSyN\source\repos\RoundButtonDemo\RoundButtonDemo\obj\Debug\RoundButtonDemo.Properties.Resources.resources
+C:\Users\SaLaaR HuSyN\source\repos\RoundButtonDemo\RoundButtonDemo\obj\Debug\RoundButtonDemo.csproj.GenerateResource.Cache
+C:\Users\SaLaaR HuSyN\source\repos\RoundButtonDemo\RoundButtonDemo\obj\Debug\RoundButtonDemo.csproj.CoreCompileInputs.cache
+C:\Users\SaLaaR HuSyN\source\repos\RoundButtonDemo\RoundButtonDemo\obj\Debug\RoundButtonDemo.exe
+C:\Users\SaLaaR HuSyN\source\repos\RoundButtonDemo\RoundButtonDemo\obj\Debug\RoundButtonDemo.pdb
